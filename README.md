@@ -3,6 +3,10 @@
 Repository:
 https://github.com/Noreldin-S/Employee-Management-System
 
+video:
+https://drive.google.com/file/d/1TgtqtTA81mEn8wYhhxdtKWN8QnBQFB2S/view
+
+
 1- Created package.json
 2- Created db folder
 3- For tables, I creades 2 sql files, first one will contain the sql codes to create the tables. second one will contain the database.
